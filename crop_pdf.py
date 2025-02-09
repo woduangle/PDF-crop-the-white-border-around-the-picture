@@ -68,4 +68,4 @@ def crop_pdf(input_path, output_folder, zoom=4, padding=0):
 
 
 # 使用示例
-crop_pdf("1.pdf", "fig_pages")
+crop_pdf("input_path", "output_folder")
