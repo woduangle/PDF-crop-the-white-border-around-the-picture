@@ -22,7 +22,8 @@
 
 ```bash
 pip install PyMuPDF numpy
-
+```
 
 ## 如有问题
 - 欢迎帮助修改代码或留言。
+
