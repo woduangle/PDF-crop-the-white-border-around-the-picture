@@ -1,4 +1,4 @@
-# crop_pdf（PDF图片裁剪器）
+# PDF crop the white border around the picture（PDF裁剪图片四周的白边）
 
 裁剪pdf图片的四周的白边，可以是多页图片的pdf，一页仅有一张图片，才能进行裁剪
 
